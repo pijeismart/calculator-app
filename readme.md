@@ -1,8 +1,3 @@
-- Active app [Click here to see the app](https://adrianoescarabote.github.io/Calculator-app-JS/)
-
-# GIF
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/101136987/200404859-d53efb66-f72f-450c-9205-218068c223b4.gif)
 
 # Frontend Mentor - Calculator app solution
 
@@ -10,13 +5,19 @@ This is a solution to the [Calculator app challenge on Frontend Mentor](https://
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-- [Author](#author)
+Your challenge is to build out this calculator app and get it looking as close to the design as possible.
 
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able to:
+
+See the size of the elements adjust based on their device's screen size
+Perform mathematical operations like addition, subtraction, multiplication, and division
+Adjust the color theme based on their preference
+Bonus: Have their initial theme preference checked using prefers-color-scheme and have any additional changes saved in the browser
+Download the project and go through the README.md file. This will provide further details about the project and help you get set up.
+
+Want some support on the challenge? Join our Slack community and ask questions in the help channel.
 ## Overview
 
 ### The challenge
@@ -46,7 +47,4 @@ It was very interesting to do this project, I believe I did a good job, but I st
 
 ## Author
 
-- Linkedin - [AdrianoEscarabote](https://www.linkedin.com/in/adriano-escarabote-944b02233/)
-- Frontend Mentor - [@AdrianoEscarabote](https://www.frontendmentor.io/profile/AdrianoEscarabote)
-- Instagram - [@ogdrian](https://www.instagram.com/ogdrian/)
-- Twitter - [@drianEscarabote](https://twitter.com/drianEscarabote)
+- Linkedin - [AdrianoEscarabote](https://www.linkedin.com/in/bill-fowler-43592a243)
