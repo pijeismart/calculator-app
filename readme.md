@@ -45,6 +45,3 @@ Users should be able to:
 
 It was very interesting to do this project, I believe I did a good job, but I still need to review a little bit about classes in js, it will be the next thing I'll study!
 
-## Author
-
-- Linkedin - [AdrianoEscarabote](https://www.linkedin.com/in/bill-fowler-43592a243)
